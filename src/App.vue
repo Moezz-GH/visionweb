@@ -58,13 +58,13 @@ import { RouterView } from 'vue-router'
   <div
       class="mx-4 flex flex-col items-center gap-4 rounded-lg bg-secondarycolor p-6 shadow-lg sm:flex-row sm:justify-between"
     >
-      <strong class="text-xl text-white sm:text-xl"> Make Your Next Career Move! </strong>
+      <strong class="text-xl text-white sm:text-xl"> اتخذ خطوتك المهنية التالية! </strong>
 
       <a
         class="inline-flex items-center gap-2 rounded-full border border-white bg-white px-8 py-3 text-secondarycolor hover:bg-transparent hover:text-white focus:outline-none focus:ring active:bg-white/90"
         href="#"
       >
-        <span class="text-sm font-medium"> Let's Get Started </span>
+        <span class="text-sm font-medium"> هيا بنا نبدأ </span>
 
         <svg
           class="size-5 rtl:rotate-180"
@@ -86,7 +86,7 @@ import { RouterView } from 'vue-router'
 
     <div class="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
       <div class="text-center sm:text-left">
-        <p class="text-lg font-medium text-secondarycolor">About Us</p>
+        <p class="text-lg font-medium text-secondarycolor"> عن الشركة </p>
 
         <ul class="mt-8 space-y-4 text-sm">
           <li>
@@ -112,7 +112,7 @@ import { RouterView } from 'vue-router'
       </div>
 
       <div class="text-center sm:text-left">
-        <p class="text-lg font-medium text-secondarycolor">Our Services</p>
+        <p class="text-lg font-medium text-secondarycolor">خدماتنا </p>
 
         <ul class="mt-8 space-y-4 text-sm">
           <li>
@@ -136,7 +136,7 @@ import { RouterView } from 'vue-router'
       </div>
 
       <div class="text-center sm:text-left">
-        <p class="text-lg font-medium text-secondarycolor">Resources</p>
+        <p class="text-lg font-medium text-secondarycolor">روابط سريعة</p>
 
         <ul class="mt-8 space-y-4 text-sm">
           <li>
@@ -166,7 +166,7 @@ import { RouterView } from 'vue-router'
       </div>
 
       <div class="text-center sm:text-left">
-        <p class="text-lg font-medium text-secondarycolor">Helpful Links</p>
+        <p class="text-lg font-medium text-secondarycolor"> روابط مفيدة</p>
 
         <ul class="mt-8 space-y-4 text-sm">
           <li>
