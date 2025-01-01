@@ -42,7 +42,6 @@
     <!-- Title -->
     <div class="mb-10 lg:mb-14">
       <h2 class="text-Headingcolor text-center font-semibold text-5xl md:text-6xl md:leading-tight">    سجل في ثلاث خطوات فقط    </h2>
-     
     </div>
     <!-- End Title -->
 

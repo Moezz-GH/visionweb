@@ -16,7 +16,7 @@
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-secondarycolor dark:text-white">إشحن حسابك بطريقة أمنة و مظمونة </h2>
             <hr>
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor"> أصبحت إدارة أموالك أسهل من أي وقت مضى بفضل خدمات الإيداع و السحب السلسلة لدينا . كجزء من حلول التداول الشاملة اللتي تقدمها لعملاء LDN Broke سوا ءكنت كنت تبحث عن إضافة أموال الى حسابك أو إجراء عملية سحب , فإننا نضمن لك تجربة سريعة و أمنة و خالية من المتاعب</p>
-            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">قم بإجراء عمليات التبادل شخصيا في المكتب لمزيد من الأمان و الثقة .  </p>
+            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">قم بإجراء عمليات التبادل شخصيا في المكتب لمزيد من الأمان و الثقة  </p>
             <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
             اقرأ المزيد
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
