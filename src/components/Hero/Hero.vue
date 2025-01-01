@@ -7,10 +7,10 @@
   <div class="bg-hero h-screen bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
        
-        <h1 class="mt-24 text-8xl font-serif font-extrabold tracking-tight leading-none text-white dark:text-white">رؤية</h1>
-        <p class=" my-4 text-4xl font-serif text-white dark:text-gray-400">للتداول و الخدمات الالكترونية</p>
+        <h1 class="mt-24 text-5xl font-serif font-extrabold tracking-tight leading-none text-white dark:text-white md:text-8xl">رؤية</h1>
+        <p class=" my-4 text-3xl font-serif text-white dark:text-gray-400 md:text-4xl">للتداول و الخدمات الالكترونية</p>
         <p class=" my-2 text-lg font-serif text-white dark:text-gray-400">شريكك المفضل لتداول العملات الاجنبية  و الاسهم و السلع لتحقيق أهدافك المالية برؤية مبتكرة</p>
-        <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
+        <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row items-center sm:justify-center sm:items-center sm:space-y-0 sm:space-x-4">
             <a href="#" class="bg-Headingcolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
                 
                 انضم الينا
@@ -95,12 +95,12 @@
     </div>
 <div class="grid gap-4 pt-16 text-center md:grid-cols-4">
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
+    <a href="/MoneyTransfers">
         <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518186233392-c232efbf2373?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </a>
     <div class="p-5">
-        <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
+        <a href="/MoneyTransfers">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> الحوالات المالية </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -109,12 +109,12 @@
 
       <!-- More products... -->
       <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
+    <a href="/ForexMarketAnalysis">
         <img class="rounded-t-lg w-96 " src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </a>
     <div class="p-5">
-        <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
+        <a href="/ForexMarketAnalysis">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">تحليل سوق الفورفكس </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -124,12 +124,12 @@
 
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
+    <a href="/tadawelforfox">
       <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </a>
     <div class="p-5">
-        <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
+        <a href="/tadawelforfox">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> تحليل سوق الفوركس</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -137,11 +137,11 @@
 </div>
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
+    <a href="/EducationalCourses">
         <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </a>
     <div class="pt-5">
-        <a href="#">
+        <a href="/EducationalCourses">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
