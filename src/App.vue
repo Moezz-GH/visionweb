@@ -53,8 +53,12 @@ import { RouterView } from 'vue-router'
 
 
 <RouterView />
- </div>
- <footer class="bg-white">
+ 
+
+
+
+
+<footer class="bg-white">
   <div
       class="mx-4 flex flex-col items-center gap-4 rounded-lg bg-secondarycolor p-6 shadow-lg sm:flex-row sm:justify-between"
     >
@@ -286,6 +290,6 @@ import { RouterView } from 'vue-router'
   </div>
 </footer>
 
-  
+  </div>
 </template>
 
