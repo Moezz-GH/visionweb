@@ -11,6 +11,8 @@ import { RouterView } from 'vue-router'
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
       <img src="../src/assets/logo.png" class="h-16" alt="Tadawal-Logo">
+      <span class="self-center text-2xl font-bold font-costum text-secondarycolor whitespace-nowrap dark:text-white">رؤية</span>
+    
      
   </a>
   <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
