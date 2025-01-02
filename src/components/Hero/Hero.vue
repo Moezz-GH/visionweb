@@ -95,13 +95,13 @@
     </div>
 <div class="grid gap-4 pt-16 text-center md:grid-cols-4">
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="/MoneyTransfers">
+   <router-link to="/MoneyTransfers">
         <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518186233392-c232efbf2373?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
-    </a>
+   </router-link>
     <div class="p-5">
-        <a href="/MoneyTransfers">
+        <router-link to="/MoneyTransfers">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> الحوالات المالية </h5>
-        </a>
+        </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
     </div>
@@ -109,13 +109,13 @@
 
       <!-- More products... -->
       <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="/ForexMarketAnalysis">
+    <router-link to="/ForexMarketAnalysis">
         <img class="rounded-t-lg w-96 " src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
-    </a>
+    </router-link>
     <div class="p-5">
-        <a href="/ForexMarketAnalysis">
+        <router-link to="/ForexMarketAnalysis">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">تحليل سوق الفورفكس </h5>
-        </a>
+        </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
     </div>
@@ -124,26 +124,26 @@
 
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="/tadawelforfox">
+  <router-link to="/tadawelforfox">
       <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
-    </a>
+  </router-link>
     <div class="p-5">
-        <a href="/tadawelforfox">
+        <router-link to="/tadawelforfox">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> تحليل سوق الفوركس</h5>
-        </a>
+        </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
     </div>
 </div>
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="/EducationalCourses">
+   <router-link to="/EducationalCourses">
         <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
-    </a>
+   </router-link>
     <div class="pt-5">
-        <a href="/EducationalCourses">
+        <router-link to="/EducationalCourses">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
-        </a>
+        </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
     </div>
