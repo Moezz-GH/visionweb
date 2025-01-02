@@ -11,11 +11,11 @@
     </div>
   </div>
 
-  <section class="bg-white bg-cover bg-no-repeat ">
+  <section class="bg-white bg-cover bg-no-repeat font-costum ">
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <div class="mt-4 md:mt-0">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-secondarycolor dark:text-white">إشحن حسابك بطريقة أمنة و مظمونة </h2>
-            <hr>
+            <hr class="my-4">
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor"> أصبحت إدارة أموالك أسهل من أي وقت مضى بفضل خدمات الإيداع و السحب السلسلة لدينا . كجزء من حلول التداول الشاملة اللتي تقدمها لعملاء LDN Broke سوا ءكنت كنت تبحث عن إضافة أموال الى حسابك أو إجراء عملية سحب , فإننا نضمن لك تجربة سريعة و أمنة و خالية من المتاعب</p>
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">قم بإجراء عمليات التبادل شخصيا في المكتب لمزيد من الأمان و الثقة  </p>
             <a href="#" class="my-4 inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
