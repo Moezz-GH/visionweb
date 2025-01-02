@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'serif': ['Almarai', 'serif'],
+      'costum': ['Almarai', 'serif'],
       
       },
       
