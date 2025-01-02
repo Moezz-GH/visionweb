@@ -1,6 +1,6 @@
 <template>
   <div>
-  <div class="bg-secondarycolor h-[fit] sm:h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
+  <div class="bg-secondarycolor h-[screen] sm:h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
                <p class="my-4 text-xl sm:text-5xl font-costum text-white dark:text-gray-400">نحن نفتخر بتقديم خدمات سحب و إيداع سريع   </p>
                <p class=" my-4 text-xl  sm:text-5xl font-costum text-white dark:text-gray-400">و تنافسية لتداول العملات الأجنبية من خلال وسيط</p>
