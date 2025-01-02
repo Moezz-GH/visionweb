@@ -1,5 +1,5 @@
 <template>
-
+<main>
 <div class="font-costum">
 
 <div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
@@ -34,4 +34,5 @@
     </div>
 </section>
 </div>
+</main>
 </template>

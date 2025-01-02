@@ -1,3 +1,6 @@
+<script setup>
+
+</script>
 <template>
     <div class="font-costum">
 
@@ -155,6 +158,8 @@
 </div>
     
   </div>
+  
+
 
 
 
@@ -350,7 +355,6 @@
 
 
 
-
 </div>
 
 
@@ -369,7 +373,5 @@
 <!-- End Slider -->
 
 </template>
-<script>
 
-</script>
 

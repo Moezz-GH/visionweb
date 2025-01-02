@@ -4,6 +4,7 @@
 </script>
 
 <template>
+  <main>
 <div class="font-costum">
 <div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
@@ -137,4 +138,5 @@
   </div>
 </div>
 </div>
+</main>
 </template>
