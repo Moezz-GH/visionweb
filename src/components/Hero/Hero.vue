@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="font-costum">
 
     
 <!-- Slider -->
@@ -11,7 +11,7 @@
         <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl">للتداول و الخدمات الالكترونية</p>
         <p class=" my-2 text-lg font-costum text-white dark:text-gray-400">شريكك المفضل لتداول العملات الاجنبية  و الاسهم و السلع لتحقيق أهدافك المالية برؤية مبتكرة</p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row items-center sm:justify-center sm:items-center sm:space-y-0 sm:space-x-4">
-            <a href="#" class="bg-Headingcolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
+            <a href="#" class="bg-secondarycolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
                 
                 انضم الينا
             </a>  
@@ -316,7 +316,7 @@
         </div>
         <!-- End Item -->
 
-        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-maincolor rounded-lg">
+        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
             اقرأ المزيد
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
