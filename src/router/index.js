@@ -48,10 +48,15 @@ const router = createRouter({
 
   ],
   scrollBehavior(to, from, savedPosition) {
-    if (savedPosition) {
-      return savedPosition; // If there's a saved position, use it (e.g., browser back/forward)
+    if (to.hash) {
+      return {
+        el: to.hash, // Scroll to the element with the ID matching the hash
+        behavior: 'smooth', // Smooth scrolling
+      };
+    } else if (savedPosition) {
+      return savedPosition;
     } else {
-      return { top: 0 }; // Scroll to the top of the page
+      return { top: 0 };
     }
   },
 });

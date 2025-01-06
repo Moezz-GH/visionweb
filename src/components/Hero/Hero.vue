@@ -91,7 +91,7 @@
 
 
 
-<div class="relative overflow-hidden ">
+<div class="relative overflow-hidden " id="services">
   <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <div class="max-w-2xl text-center mx-auto">
       <h1 class="block text-3xl font-costum font-bold text-Headingcolor sm:text-4xl md:text-5xl dark:text-white">تعرف على ابرز خدماتنا</h1>
