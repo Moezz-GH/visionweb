@@ -27,7 +27,7 @@
         
 
        <div class="flex items-center justify-center">
-        <img class=" h-[32rem] rounded-2xl hadow-lg w-2/3 dark:hidden" src="../assets/Screenshot_2024-12-27_212513-removebg-preview.png" alt="dashboard image">
+        <img class=" h-[32rem] rounded-2xl hadow-lg w-2/3 dark:hidden" src="../../assets/Screenshot_2024-12-27_212513-removebg-preview.png" alt="dashboard image">
        </div>    
     </div>
 </section>

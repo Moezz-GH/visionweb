@@ -27,7 +27,7 @@
     <!-- Card -->
     <div class="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
       <div class="flex flex-col justify-center items-center  rounded-t-xl">
-        <img class="w-full h-64 object-cover" src="../assets/pexels-photo-159888.webp" alt="">
+        <img class="w-full h-64 object-cover" src="../../assets/pexels-photo-159888.webp" alt="">
       </div>
       <div class="p-4 md:p-6">
         <span class="block mb-1 text-xs font-semibold uppercase text-Headingcolor dark:text-blue-500">
