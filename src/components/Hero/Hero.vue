@@ -14,7 +14,7 @@
         <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl">للتداول و الخدمات الالكترونية</p>
         <p class=" my-2 text-lg font-costum text-white dark:text-gray-400">شريكك المفضل لتداول العملات الاجنبية  و الاسهم و السلع لتحقيق أهدافك المالية برؤية مبتكرة</p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row items-center sm:justify-center sm:items-center sm:space-y-0 sm:space-x-4">
-            <a href="#" class="bg-secondarycolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
+            <a href="https://linktr.ee/visionfortrading.ly" class="bg-secondarycolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
                 
                 انضم الينا
             </a>  
@@ -67,7 +67,7 @@
   </div>
 
 <div class="flex justify-center pb-10">
-  <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-maincolor bg-white rounded-lg">
+  <a href="/ourservices" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-maincolor bg-white rounded-lg">
             اقرأ المزيد
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -117,7 +117,7 @@
     </router-link>
     <div class="p-5">
         <router-link to="/ForexMarketAnalysis">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">تحليل سوق الفورفكس </h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">تداول معنا</h5>
         </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -132,7 +132,7 @@
   </router-link>
     <div class="p-5">
         <router-link to="/tadawelforfox">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> تحليل سوق الفوركس</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">التداول الالي للفوركس</h5>
         </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -169,7 +169,7 @@
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">نحن وكلاء لشركة وساطة أمنة و موثوقة .</h2>
             <p class="mb-6 font-light text-white md:text-lg dark:text-white">تعتبر LND Global Marlets واحدة من أبرز شركات الوساطة العالمية حيث تتميز بتوفير بيئة تداول أمنة و موثوقة </p>
             <p class="mb-6 font-light text-white md:text-lg dark:text-white"> تقدم الشركة خدمة التداول الالكتروني على منصة التداول الشهيرة ميتا تريد 5 , حيث يوجد أكثر من مئة أداة مالية للتداول مثل العملات. المئشرات , المعادن الثمينة, العملات الرقمية , وغيرها من أصول التداول .  </p>
-            <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-maincolor bg-white rounded-lg">
+            <a href="/OurServices" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-maincolor bg-white rounded-lg">
             اقرأ المزيد
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -321,7 +321,7 @@
         </div>
         <!-- End Item -->
 
-        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
+        <a href="https://my.ldnglobalmarkets.com/register?referral=01926173-65da-7076-a21c-356a275c07ae" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
             اقرأ المزيد
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>

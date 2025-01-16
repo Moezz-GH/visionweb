@@ -2,7 +2,7 @@
     <div class="font-costum">
 <div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-               <p class="my-4 text-5xl font-serif text-LDN dark:text-gray-400 mb-20"> التداول الالي للفوركس</p>
+               <p class="my-4 text-5xl font-serif text-white mt-10 dark:text-gray-400 mb-20"> التداول الالي للفوركس</p>
                <p class=" my-4 text-2xl font-serif text-white dark:text-gray-400">إذا كانت لديك القدرة على الاستثمار وترغب في الاستثمار في سوق الفوركس </p>
                <p class=" my-4 text-2xl font-serif text-white dark:text-gray-400">ولكن ليس لديك الوقت لتحليل الصفقات و تنفيذها فإن خدمة الروبوت الالي تناسبك </p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">  
@@ -14,7 +14,7 @@
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <div class="mt-4 md:mt-0">
             <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-secondarycolor dark:text-white">   Smart Bot مستقبل التداول  </h2>
-            <hr>
+            <hr class=" my-4">
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor"> إرفع مستوى اللعبة التجارية الخاصة بك مع SMART BOT حيث مستقبل التداول الالي </p>
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">بسهولة يمكنك البدء في رحلة التداول سواء كنت متداولا مبتدئا يبحث عن التوجيه او مستثمرا ذو خبرة يتطلع الى تبسيط عملية التداول الخاصه به فإن حلنا الشامل يلبيإحتياجاتك</p>
             <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
@@ -27,7 +27,7 @@
         
 
        <div class="flex items-center justify-center">
-        <img class=" h-[32rem] rounded-2xl hadow-lg w-2/3 dark:hidden" src="../../assets/Screenshot_2024-12-27_212513-removebg-preview.png" alt="dashboard image">
+        <img class=" h-[32rem] rounded-2xl hadow-lg w-2/3 dark:hidden" src="../../assets/Robot-img.svg" alt="dashboard image">
        </div>    
     </div>
 </section>

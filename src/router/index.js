@@ -6,6 +6,7 @@ import tadawelforfox from '../views/tadawelforfox.vue'
 import MoneyTransfers from '../views/MoneyTransfers.vue'
 import ForexMarketAnalysis from '../views/ForexMarketAnalysis.vue'
 import EducationalCourses from '../views/EducationalCourses.vue'
+import Blogs from '../components/Blogs/Blogs.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -44,6 +45,12 @@ const router = createRouter({
       path: '/EducationalCourses',
       name: 'EducationalCourses',
       component: EducationalCourses,
+    },
+
+    {
+      path: '/Blogs',
+      name: 'Blogs',
+      component: Blogs,
     },
 
   ],
