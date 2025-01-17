@@ -17,7 +17,7 @@
             <hr class="my-4">
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">هل كنت تعلم أن تداول الفوركس هو المجال الأسهل للإستثمار في عام 2025 حسب تقييم مواقع عالمية عدة ؟</p>
             <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">حتى تكن مميزاً جعلت رؤية للتداول هذا المجال أكثر سهولة, حيث وفرت لك خدمات مميزة مجانية لمساعدتك في بداية رحلتك في عالم التداول</p>
-            <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+            <a href="https://t.me/visionfortrading" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
              تواصل معنا 
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
