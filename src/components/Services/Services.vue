@@ -32,7 +32,7 @@
             <h2 class="pt-12 block text-3xl font-costum font-Regular text-Headingcolor sm:text-3xl md:text-3xl dark:text-white">قناة التعليمية :  </h2>
             <li class="py-8 text-3xl">تعلم أسس التداول واستراتيجيات السوق بأسلوب بسيط واحترافي. القناة مصممة للمتداولين المبتدئين والمحترفين الراغبين في تطوير مهاراتهم</li>
             <div class="py-8 flex justify-center">
-                <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+                <a href="https://t.me/visionfortrading" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
                     إنضم إلينا الأن 
                 <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -45,7 +45,7 @@
             <h2 class="pt-12 block text-3xl font-costum font-Regular text-Headingcolor sm:text-3xl md:text-3xl dark:text-white">قناة التحليلات و التوصيات :  </h2>
             <li class="py-8 text-3xl">احصل على توصيات يومية وتحليلات دقيقة مدعومة بأحدث الاستراتيجيات لتساعدك على اتخاذ قرارات استثمارية مدروسة </li>
             <div class="py-8 flex justify-center">
-                <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+                <a href="https://wa.me/message/K6SJSHU6GEVOA1" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
                 إنضم إلينا الأن 
                 <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
