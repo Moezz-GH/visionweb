@@ -17,6 +17,7 @@ module.exports = {
     'secondarycolor/2': '#6b193f9c',
     'Headingcolor': '#6b193f',
     'LDN': '#ffda25',
+    'Orange' : '#f18b0b',
     
     },
     extend: {

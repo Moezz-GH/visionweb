@@ -7,6 +7,7 @@ import MoneyTransfers from '../views/MoneyTransfers.vue'
 import ForexMarketAnalysis from '../views/ForexMarketAnalysis.vue'
 import EducationalCourses from '../views/EducationalCourses.vue'
 import Blogs from '../components/Blogs/Blogs.vue'
+import Services from '../views/Services.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -51,6 +52,11 @@ const router = createRouter({
       path: '/Blogs',
       name: 'Blogs',
       component: Blogs,
+    },
+    {
+      path: '/Services',
+      name: 'Services',
+      component: Services,
     },
 
   ],

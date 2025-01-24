@@ -10,19 +10,12 @@
       
     </div>
   </div>
-  <section class="bg-white bg-cover bg-no-repeat ">
+<section class="bg-white bg-cover bg-no-repeat ">
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <div class="mt-4 md:mt-0">
             <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-secondarycolor dark:text-white">   Smart Bot مستقبل التداول  </h2>
             <hr class=" my-4">
-            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor"> إرفع مستوى اللعبة التجارية الخاصة بك مع SMART BOT حيث مستقبل التداول الالي </p>
-            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">بسهولة يمكنك البدء في رحلة التداول سواء كنت متداولا مبتدئا يبحث عن التوجيه او مستثمرا ذو خبرة يتطلع الى تبسيط عملية التداول الخاصه به فإن حلنا الشامل يلبيإحتياجاتك</p>
-            <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
-             تواصل معنا 
-             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-            </svg>
-        </a>
+            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor"> استمتع بتجربة التداول الذكي مع خدمة التداول الالي المقدمة من شركة رؤية . هذه الخدمة مصممة خصيصا للأفراد الذين لا يمتلكون الوقت الكافي للتاول اليدوي أو الخبرة الكافية في الأسواق المالية . دع تقنياتنا المتقدمة تعمل من أجلك دع تقنياتنا المتقدمة تعمل من أجلك لتحفيف نتائج ممبزة مع الحفاظ على التحكم الكامل في حسابك.</p>
         </div>
         
 
@@ -31,9 +24,31 @@
        </div>    
     </div>
 </section>
+<section class="bg-secondarycolor bg-cover bg-no-repeat ">
+    <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
+        <div class="mt-4 md:mt-0">
+            <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-white dark:text-white">     مميزات خدمة التداول الألي:   </h2>
+            <hr class=" my-4">
+            <p class="mb-6 font-light text-Orange md:text-lg dark:text-secondarycolor"> 1- توفير الوقت و الجهد</p>
+            <p class="mb-6 font-light text-white md:text-lg dark:text-secondarycolor"> لا حاجة لتحليل السوق أو متابعة تحركات الأسعار . النظام يقوم بكل ذلك نيابة عنك. </p>
+            <p class="mb-6 font-light text-Orange md:text-lg dark:text-secondarycolor"> 2- أداء مميز</p>
+            <p class="mb-6 font-light text-white md:text-lg dark:text-secondarycolor"> نعتمد على استراتيجات تداول مدروسة لتحقيق أفضل النتائج الممكنة  </p>
+            <p class="mb-6 font-light text-Orange md:text-lg dark:text-secondarycolor"> 3- إدارة مخاطرة محسوبة </p>
+            <p class="mb-6 font-light text-white md:text-lg dark:text-secondarycolor"> نظامنا يضمن إدارة مخاطرة دقيقة لتحسين فرص الربح و تقليل الخسائر</p>
+            <p class="mb-6 font-light text-Orange md:text-lg dark:text-secondarycolor"> 4- مرونة و تحكم كامل</p>
+            <p class="mb-6 font-light text-white md:text-lg dark:text-secondarycolor">  يمكنك متابعة أداء حسابك بسهولة من خلال منصتك الخاصة</p>
+        </div>
+        
+
+       <div class="flex items-center justify-center">
+        <img class=" h-[32rem] rounded-2xl hadow-lg w-2/3 dark:hidden" src="../../assets/Screenshot_2025-01-20_210100-removebg-preview.png" alt="dashboard image">
+       </div>    
+    </div>
+</section>
+
 <div class="bg-white">
   <!-- Approach -->
-  <div class="max-w-5xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
+  <div class="max-w-5xl px-4 xl:px-0 py-10 lg:pt-20 mx-auto">
     <!-- Title -->
     <div class="mb-10 lg:mb-14">
       <h2 class="text-Headingcolor text-center font-semibold text-5xl md:text-6xl md:leading-tight">    سجل في ثلاث خطوات فقط    </h2>
@@ -131,6 +146,38 @@
     <!-- End Grid -->
   </div>
 </div>
+<!-- <section class="bg-white bg-cover bg-no-repeat ">
+    <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
+        <div class="mt-4 md:mt-0">
+            <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-secondarycolor dark:text-white">لماذا تختار التداول الالي مع رؤية ؟</h2>
+            <hr class=" my-4">
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor">خبرة وكفاءة : خدمة مدعومة بأحدث تقنيات التداول و تحليل السوق</p>
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor"> دعم مستمر : فريقنا متواجد لمساعدتك و للإجابة عن جميع استفساراتك </p>
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor">أمان و شفافية : أموالك في أيد أمنة مع وسيط موثوق و إدارة محترمة</p>
+
+            <p class="mb-6 font-light text-secondarycolor md:text-lg dark:text-secondarycolor">لا تفوت فرصة تحقيق أهدافك الاستمارية بسهولة و احترافية </p>
+        </div>
+      
+        
+
+          
+    </div>
+</section> -->
+
+<div class="bg-white h-[22rem] bg-center bg-cover bg-no-repeat">
+    <div class="py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-10 lg:px-10">
+      <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-secondarycolor dark:text-white">لماذا تختار التداول الالي مع رؤية ؟</h2>
+            <hr class=" my-4">
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor">خبرة وكفاءة : خدمة مدعومة بأحدث تقنيات التداول و تحليل السوق</p>
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor"> دعم مستمر : فريقنا متواجد لمساعدتك و للإجابة عن جميع استفساراتك </p>
+            <p class="mb-6 font-light text-black md:text-lg dark:text-secondarycolor">أمان و شفافية : أموالك في أيد أمنة مع وسيط موثوق و إدارة محترمة</p>
+
+            <p class="mb-6 font-light text-secondarycolor md:text-3xl dark:text-secondarycolor">لا تفوت فرصة تحقيق أهدافك الاستمارية بسهولة و احترافية </p>
+        <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">  
+        </div>
+      
+    </div>
+  </div>
 </div>
 </template>
 
