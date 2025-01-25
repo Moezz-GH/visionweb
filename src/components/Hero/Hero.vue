@@ -112,11 +112,11 @@
 
       <!-- More products... -->
       <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <router-link to="/ForexMarketAnalysis">
+    <router-link to="/Services">
         <img class="rounded-t-lg w-96 " src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </router-link>
     <div class="p-5">
-        <router-link to="/ForexMarketAnalysis">
+        <router-link to="/Services">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">تداول معنا</h5>
         </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
