@@ -7,17 +7,14 @@
     
 <!-- Slider -->
 
-  <div class="bg-hero h-screen bg-center bg-cover bg-no-repeat pt-24">
+  <div class="bg-hero h-[32rem] sm:h-screen  bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
        
-        <h1 class="mt-24 text-5xl font-costum font-extrabold tracking-tight leading-none text-white dark:text-white md:text-8xl">رؤية</h1>
-        <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl">للتداول و الخدمات الالكترونية</p>
+        <h1 class="mt-24 text-5xl font-costum font-extrabold tracking-tight leading-none text-white dark:text-white md:text-8xl">رؤية للتداول</h1>
+        <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl"> و الخدمات الالكترونية</p>
         <p class=" my-2 text-lg font-costum text-white dark:text-gray-400">شريكك المفضل لتداول العملات الاجنبية  و الاسهم و السلع لتحقيق أهدافك المالية برؤية مبتكرة</p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row items-center sm:justify-center sm:items-center sm:space-y-0 sm:space-x-4">
-            <a href="https://linktr.ee/visionfortrading.ly" class="bg-secondarycolor inline-flex justify-center items-center py-3 px-8 w-72 text-base font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-black focus:ring-4 focus:ring-gray-100 transform hover:origin-center ">
-                
-                انضم الينا
-            </a>  
+            
         </div>
       
     </div>
@@ -37,7 +34,7 @@
 
 <!-- Hero -->
 <div class="bg-sec2 bg-cover bg-no-repeat pb-10">
-  <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-20">
+  <div class="max-w-[85rem]  px-4 sm:px-1 lg:px-1 py-10">
     <div class="relative mx-auto max-w-4xl grid space-y-5 sm:space-y-10">
       <!-- Title -->
       <div class="text-right">

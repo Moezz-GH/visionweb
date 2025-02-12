@@ -13,10 +13,10 @@
   <section>
     <div class="grid-cols-2 gap-x-5 flex justify-center max-w-5xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
 
-        <a href="#" class="h-11 w-2/5 items-center px-3 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+        <a href="#" class="h-14 w-4/5 items-center px-3 py-2 content-center text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
               الدورة التدريبية الاولى
         </a>
-        <a href="#" class="w-2/5 items-center px-7 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+        <a href="#" class="h-11 w-2/5 items-center px-7 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
              الدورة التدريبية الثانية قريبا...
         </a>
     </div>
