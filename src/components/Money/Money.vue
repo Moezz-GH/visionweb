@@ -1,7 +1,7 @@
 <template>
   <div class="font-costum">
 <div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
-    <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-20 lg:px-12">
+    <div class="animate__animated animate__backInDown py-20 px-4 mx-auto max-w-screen-xl text-center lg:py-20 lg:px-12">
                <p class=" my-4 text-xl sm:text-3xl font-serif text-white dark:text-gray-400 lg:text"> نحن نفتخر بتقديم خدمات سحب و إيداع سريعة و تنافسية لتداول العملات الأجنبية من خلال شركة الوساطة المالية</p>
                <p class=" my-4 text-xl sm:text-3xl font-serif text-LDN dark:text-gray-400 lg:text">GlobalMarkets</p>
                <p class=" my-4 text-xl sm:text-3xl font-serif text-LDN dark:text-gray-400 lg:text">LDN</p>

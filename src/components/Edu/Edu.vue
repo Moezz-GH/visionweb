@@ -15,9 +15,9 @@
         <a href="#" class="h-16 w-4/5 items-center px-3 py-2 content-center text-lg font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
               الدورة التدريبية الاولى
         </a>
-        <div class="h-11 w-2/5 items-center px-7 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
+        <!-- <div class="h-11 w-2/5 items-center px-7 py-2 text-sm font-serif font-medium text-center text-white bg-secondarycolor rounded-lg">
              الدورة التدريبية الثانية 
-        </div>
+        </div> -->
     </div>
 
     <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
