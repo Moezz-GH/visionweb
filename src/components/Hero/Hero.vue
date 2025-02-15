@@ -11,7 +11,7 @@
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
        
         <h1 class="mt-24 text-5xl font-costum font-extrabold tracking-tight leading-none text-white dark:text-white md:text-8xl">رؤية للتداول</h1>
-        <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl"> و الخدمات الالكترونية</p>
+        <p class=" my-4 text-3xl font-costum text-white dark:text-gray-400 md:text-4xl"> للخدمات المالية </p>
         <p class=" my-2 text-lg font-costum text-white dark:text-gray-400">شريكك المفضل لتداول العملات الاجنبية  و الاسهم و السلع لتحقيق أهدافك المالية برؤية مبتكرة</p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row items-center sm:justify-center sm:items-center sm:space-y-0 sm:space-x-4">
             
@@ -35,7 +35,7 @@
 <!-- Hero -->
 <div class="bg-sec2 bg-cover bg-no-repeat pb-10">
   <div class="max-w-[85rem]  px-4 sm:px-1 lg:px-1 py-10">
-    <div class="relative mx-auto max-w-4xl grid space-y-5 sm:space-y-10">
+    <div class="lg:px-16">
       <!-- Title -->
       <div class="text-right">
 
@@ -94,23 +94,10 @@
       <h1 class="block text-3xl font-costum font-bold text-Headingcolor sm:text-4xl md:text-5xl dark:text-white">تعرف على ابرز خدماتنا</h1>
     </div>
 <div class="grid gap-4 pt-16 text-center md:grid-cols-4">
-    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-   <router-link to="/MoneyTransfers">
-        <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518186233392-c232efbf2373?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
-   </router-link>
-    <div class="p-5">
-        <router-link to="/MoneyTransfers">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> الحوالات المالية </h5>
-        </router-link>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
-        
-    </div>
-</div>
 
-      <!-- More products... -->
-      <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+  <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <router-link to="/Services">
-        <img class="rounded-t-lg w-96 " src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+        <img class="rounded-t-lg w-full h-64 object-cover " src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
     </router-link>
     <div class="p-5">
         <router-link to="/Services">
@@ -122,10 +109,23 @@
 </div>
 
 
+<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+   <router-link to="/EducationalCourses">
+        <img class="rounded-t-lg  w-full h-64 object-cover" src="../../assets/pexels-anna-nekrashevich-6801648 (1).jpg" alt="" />
+   </router-link>
+    <div class="pt-5">
+        <router-link to="/EducationalCourses">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
+        </router-link>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
+        
+    </div>
+</div>
+
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
   <router-link to="/tadawelforfox">
-      <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+      <img class="rounded-t-lg  w-full h-64 object-cover" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
   </router-link>
     <div class="p-5">
         <router-link to="/tadawelforfox">
@@ -136,13 +136,13 @@
     </div>
 </div>
 
-<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-   <router-link to="/EducationalCourses">
-        <img class="rounded-t-lg" src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+   <router-link to="/MoneyTransfers">
+        <img class="rounded-t-lg  w-full h-64 object-cover" src="https://images.unsplash.com/photo-1518186233392-c232efbf2373?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
    </router-link>
-    <div class="pt-5">
-        <router-link to="/EducationalCourses">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white">دورات تعليمية</h5>
+    <div class="p-5">
+        <router-link to="/MoneyTransfers">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black:text-white"> الحوالات المالية </h5>
         </router-link>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">نوفر لك دورات تعليمية لتطوير المهارات في مجال التداول مع مدربين متخصصين</p>
         
@@ -163,7 +163,8 @@
   <section class="bg-sec2 bg-cover bg-no-repeat ">
     <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <div class="mt-4 md:mt-0">
-            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">نحن وكلاء لشركة وساطة أمنة و موثوقة .</h2>
+            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">نحن وكلاء لشركة وساطة </h2>
+            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">أمنة و موثوقة .</h2>
             <p class="mb-6 font-light text-white md:text-lg dark:text-white">تعتبر LND Global Marlets واحدة من أبرز شركات الوساطة العالمية حيث تتميز بتوفير بيئة تداول أمنة و موثوقة </p>
             <p class="mb-6 font-light text-white md:text-lg dark:text-white"> تقدم الشركة خدمة التداول الالكتروني على منصة التداول الشهيرة ميتا تريد 5 , حيث يوجد أكثر من مئة أداة مالية للتداول مثل العملات. المئشرات , المعادن الثمينة, العملات الرقمية , وغيرها من أصول التداول .  </p>
             <a href="/OurServices" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-maincolor bg-white rounded-lg">
@@ -317,13 +318,14 @@
           
         </div>
         <!-- End Item -->
-
-        <a href="https://my.ldnglobalmarkets.com/register?referral=01926173-65da-7076-a21c-356a275c07ae" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
-            اقرأ المزيد
+         <div class="flex place-content-center">
+          <a href="https://my.ldnglobalmarkets.com/register?referral=01926173-65da-7076-a21c-356a275c07ae" class="inline-flex items-center px-3 py-2 text-sm font-costum font-medium text-center text-white bg-secondarycolor rounded-lg">
+            إبدا الأن 
              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
             </svg>
         </a>
+         </div>
       </div>
       <!-- End Timeline -->
     </div>
