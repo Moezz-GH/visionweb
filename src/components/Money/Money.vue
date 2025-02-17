@@ -2,9 +2,10 @@
   <div class="font-costum">
 <div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
     <div class="animate__animated animate__backInDown py-20 px-4 mx-auto max-w-screen-xl text-center lg:py-20 lg:px-12">
-               <p class=" my-4 text-xl sm:text-3xl font-serif text-white dark:text-gray-400 lg:text"> نحن نفتخر بتقديم خدمات سحب و إيداع سريعة و تنافسية لتداول العملات الأجنبية من خلال شركة الوساطة المالية</p>
-               <p class=" my-4 text-xl sm:text-3xl font-serif text-LDN dark:text-gray-400 lg:text">GlobalMarkets</p>
-               <p class=" my-4 text-xl sm:text-3xl font-serif text-LDN dark:text-gray-400 lg:text">LDN</p>
+               <p class=" my-14 text-xl sm:text-3xl font-serif text-white dark:text-gray-400 lg:text"> نحن نفتخر بتقديم خدمات سحب و إيداع سريعة و تنافسية لتداول العملات  </p>
+               <p class=" text-xl sm:text-3xl font-serif text-white dark:text-gray-400 lg:text">من خلال شركة الوساطة المالية الأجنبية 
+                <span class="text-LDN"> LDN GlobalMarkets</span>
+               </p>
         <div class="mt-20 flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">  
         </div>
       

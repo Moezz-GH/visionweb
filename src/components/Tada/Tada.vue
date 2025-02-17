@@ -40,66 +40,18 @@
   <div class="max-w-screen-xl px-4 py-4 mx-auto lg:px-6 sm:py-8">
     <div class="max-w-3xl mx-auto text-center">
       <h2 class="block text-3xl font-costum font-Regular text-Headingcolor sm:text-4xl md:text-5xl dark:text-white">
-        لماذا تختارنا ؟
+        مميزات خدمة التداول الالي
       </h2>
     </div>
 
     <div class="flow-root max-w-5xl mx-auto mt-4 sm:mt-8 lg:mt-8">
-      <div class="-my-4 divide-y divide-gray-200 dark:divide-gray-700">
-        <div class="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-          
-          <h3 class="text-lg font-Regular text-gray-900 dark:text-white">
-            <i class="fa-solid fa-circle m-4"></i>
-            <span href="#" class=""> توفير الوقت و الجهد لا حاجة لتحليل السوق أو متابعة تحركات الأسعار . النظام يقوم بكل ذلك نيابة عنك. </span>
-          </h3>
-        </div>
-
-
-        
-
-      </div>
-
-
-      
-
+      <ol class="list-decimal list-inside space-y-4 font-Regular text-gray-900 dark:text-white text-2xl">
+        <li class="text-3xl "><span class="text-lg">توفير الوقت و الجهد لا حاجة لتحليل السوق أو متابعة تحركات الأسعار . النظام يقوم بكل ذلك نيابة عنك.</span> </li>
+        <li class="text-3xl "><span class="text-lg"> أداء مميز نعتمد على استراتيجيات تداول مدروسة لتحقيق أفضل النتائج الممكنة.</span> </li>
+        <li class="text-3xl "> <span class="text-lg"> إدارة مخاطرة محسوبة نظامنا يضمن إدارة مخاطرة دقيقة لتحسين فرص الربح و تقليل الخسائر.</span></li>
+        <li class="text-3xl "><span class="text-lg"> مرونة و تحكم كامل يمكنك متابعة أداء حسابك بسهولة من خلال منصتك الخاصة.</span></li>
+      </ol>
     </div>
-    <!--  -->
-    <div class="flow-root max-w-5xl mx-auto mt-4 sm:mt-8 lg:mt-8">
-      <div class="-my-4 divide-y divide-gray-200 dark:divide-gray-700">
-        <div class="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-          
-          <h3 class="text-lg font-Regular text-gray-900 dark:text-white">
-            <i class="fa-solid fa-circle m-4"></i>
-            <span href="#" class=""> أداء مميز نعتمد على استراتيجات تداول مدروسة لتحقيق أفضل النتائج الممكنة  </span>
-          </h3>
-        </div>
-      </div>
-    </div>
-    <!--  -->
-    <div class="flow-root max-w-5xl mx-auto mt-4 sm:mt-8 lg:mt-8">
-      <div class="-my-4 divide-y divide-gray-200 dark:divide-gray-700">
-        <div class="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-          
-          <h3 class="text-lg font-Regular text-gray-900 dark:text-white">
-            <i class="fa-solid fa-circle m-4"></i>
-            <span href="#" class=""> إدارة مخاطرة محسوبة نظامنا يضمن إدارة مخاطرة دقيقة لتحسين فرص الربح و تقليل الخسائر </span>
-          </h3>
-        </div>
-      </div>
-    </div>
-    <!--  -->
-    <div class="flow-root max-w-5xl mx-auto mt-4 sm:mt-8 lg:mt-8">
-      <div class="-my-4 divide-y divide-gray-200 dark:divide-gray-700">
-        <div class="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-          
-          <h3 class="text-lg font-Regular text-gray-900 dark:text-white">
-            <i class="fa-solid fa-circle m-4"></i>
-            <span href="#" class=""> مرونة و تحكم كامل يمكنك متابعة أداء حسابك بسهولة من خلال منصتك الخاصة</span>
-          </h3>
-        </div>
-      </div>
-    </div>
-
   </div>
 </section>
 
