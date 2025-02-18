@@ -1,6 +1,6 @@
 <template>
       <div class="font-costum">
-<div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-24">
+<div class="bg-secondarycolor h-[32rem] bg-center bg-cover bg-no-repeat pt-16">
     <div class="animate__animated animate__backInDown py-18 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12 my-20  ">
                <p class="sm:text-7xl text-5xl  font-serif  text-white dark:text-gray-400 "> اقرا اكثر و تعرف على </p>
                <p class="sm:text-7xl text-5xl font-serif text-white dark:text-gray-400">عالم الاسواق المالي</p>
@@ -18,7 +18,7 @@
   <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
 
     <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
   <div class="p-4 md:p-5 ">
     <h3 class="text-lg  font-bold text-gray-800 dark:text-white">
         سوق الفوركس 
@@ -34,7 +34,7 @@
 
 
 <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="../../assets/istockphoto-1295906367-612x612.webp" alt="Card Image">
   <div class="p-4 md:p-5">
     <h3 class="text-lg font-bold text-gray-800 dark:text-white">
         الرافعة المالية 
@@ -50,7 +50,7 @@
 
 
 <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="../../assets/istockphoto-1465618017-612x612.jpg" alt="Card Image">
   <div class="p-4 md:p-5">
     <h3 class="text-lg font-bold text-gray-800 dark:text-white">
         أزواج العملات 
@@ -65,7 +65,7 @@
 
 
 <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="../../assets/pexels-alesiakozik-6771243.jpg" alt="Card Image">
   <div class="p-4 md:p-5">
     <h3 class="text-lg font-bold text-gray-800 dark:text-white">
         سوق الفوركس 
@@ -80,7 +80,7 @@
 
 
 <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="../../assets/pexels-anna-nekrashevich-6801648 (1).jpg" alt="Card Image">
   <div class="p-4 md:p-5">
     <h3 class="text-lg font-bold text-gray-800 dark:text-white">
         الرافعة المالية 
@@ -96,7 +96,7 @@
 
 
 <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-  <img class="w-full h-auto rounded-t-xl" src="https://images.pexels.com/photos/29744518/pexels-photo-29744518/free-photo-of-euro-currency-and-wallet-on-wooden-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+  <img class="w-full h-64 object-cover rounded-t-xl" src="../../assets/pexels-photo-159888.webp" alt="Card Image">
   <div class="p-4 md:p-5">
     <h3 class="text-lg font-bold text-gray-800 dark:text-white">
         أزواج العملات 
